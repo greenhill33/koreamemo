@@ -1,0 +1,13 @@
+쪽=邊,方向,侧,側,side
+오른쪽=右邊,右边,right side
+왼쪽=左邊,左边,left side
+위쪽=上面,顶,上部,top
+아래쪽=下面,下部,down
+뒤에=後面,后,後ろ,after
+앞쪽=前面,front
+가운데=中間,middle
+안=裡面,内部,inside
+밖=外,外面,outside
+앚은편=對面,对面,opposite
+모퉁이=角落,隅,corner
+옆=旁邊,隣,next to
