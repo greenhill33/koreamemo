@@ -3,6 +3,8 @@
 %%%B numbers.txt=number=54 words, basic number word (2014/12/10)
 %%%B times.txt=time=37 words, basic time word (2014/12/11)
 %%%B days.txt=date=36 words, basic date word (2014/12/13)
+%%%B tw_slang1.txt=slang1=24 words, slang 1 (2015/1/12)
+%%%C tw_slang2.txt=slang2=107 words, slang 2 (2015/1/12)
 %%%E class01.txt=proficiency_test1=231 words, Korean vocabulary proficiency test 1 (2015/1/1)
 %%%E class02.txt=proficiency_test2=231 words, Korean vocabulary proficiency test 2 (2015/1/1)
 %%%G class03.txt=proficiency_test3=231 words, Korean vocabulary proficiency test 3 (2015/1/1)
