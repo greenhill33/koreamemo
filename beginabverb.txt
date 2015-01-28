@@ -337,7 +337,7 @@
 친절하다=adj.kind
 켜다=v.turn on
 콧물이나다=v.have a runny nose
-크게=adv.largly
+크게=adv.largely
 크다=adj.big
 키가크다=adj.tall
 타다=v.ride
