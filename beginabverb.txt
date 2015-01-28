@@ -252,7 +252,7 @@
 요즘=adv.thesedays
 우리=pron.our
 우산을쓰다=v.take an umbrella
-운동하다=v.exerise
+운동하다=v.exercise
 운전하다=v.drive
 웃다=v.laugh
 위험하다=adj.dangerous
