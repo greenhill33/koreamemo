@@ -6,6 +6,7 @@
 %%%B constellationen.txt=Constellations=12 words, the 12 Zodiacal Constellations (2015/3/5)
 %%%B makeupen.txt=make up=106 words, skincare and makeup word (2015/3/6)
 %%%C clothesen.txt=clothing vocab=128 words, Korean clothing vocabulary (2015/3/7)
+%%%C electricen.txt=appliances vocab=152 words, appliances vocabulary (2015/3/7)
 %%%C tradeen.txt=international trade=163 words, organize international trade word (2015/3/6)
 %%%D sewingen.txt=sewing vocab=353 words, sewing factory vocabulary (2015/3/7)
 %%%B tw_slang1.txt=slang1=24 words, slang 1 (2015/1/12)
