@@ -3,6 +3,7 @@
 %%%B numbers.txt=number=54 words, basic number word (2014/12/10)
 %%%B times.txt=time=37 words, basic time word (2014/12/11)
 %%%B days.txt=date=36 words, basic date word (2014/12/13)
+%%%B colorsimple.txt=colors=31 words, commonly used colors (2015/4/19)
 %%%B constellationen.txt=Constellations=12 words, the 12 Zodiacal Constellations (2015/3/5)
 %%%B aflighten.txt=airplane vocab=50 words, airplane vocabulary (2015/3/8)
 %%%B makeupen.txt=make up=106 words, skincare and makeup word (2015/3/6)
