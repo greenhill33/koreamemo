@@ -35,3 +35,6 @@
 오후=下午,午後,afternoon
 저녁=晚上,夕方,evening
 밤=半夜,夜中,night,midnight
+여덟시 십분=八点十分,8h10m
+일곱시 오십오분 십오초=七点五十五分十五秒,7h55m15s
+다섯시 오분전=五点差五分,5 minutes to 5
