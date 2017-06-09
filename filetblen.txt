@@ -18,6 +18,7 @@
 %%%B en_sent_can.txt=Can you and I=34, Can you and Can I have something?
 %%%E beginnouns.txt=TOPIK beginner p1=289 words, TOPIK beginner level Nouns
 %%%E beginabverb.txt=TOPIK beginner p2=364 words, TOPIK beginner level Adverb,adj,adv
+%%%C pubadj100en.txt=CommonAdj100=104 words, 100 Most Basic Korean Adjectives
 %%%C pub100en.txt=CommonVerb100=100 words, 100 Most Basic Korean Verbs
 %%%F pub500en.txt=CommonVerb480=483 words, 480 Most Common Korean Verbs
 %%%G v5291en.txt=Frequency5000=5291 words, Korean frequency list 5000 words
