@@ -41,3 +41,12 @@
 %%%F mostcommon4en.txt=CommonLv4=999 words, 5600 Most Common Korean Words, Part 4
 %%%F mostcommon5en.txt=CommonLv5=1000 words, 5600 Most Common Korean Words, Part 5
 %%%E mostcommon6en.txt=CommonLv6=666 words, 5600 Most Common Korean Words, Part 6
+%%%B love_korean_51.txt=LoveKorean5_1=40 words, I Love Korean 5 wich published by Seoul University
+%%%B love_korean_52.txt=LoveKorean5_2=25 words, I Love Korean 5 wich published by Seoul University
+%%%B love_korean_53.txt=LoveKorean5_3=35 words, I Love Korean 5 wich published by Seoul University
+%%%B love_korean_54.txt=LoveKorean5_4=30 words, I Love Korean 5 wich published by Seoul University
+%%%B love_korean_55.txt=LoveKorean5_5=39 words, I Love Korean 5 wich published by Seoul University
+%%%B love_korean_56.txt=LoveKorean5_6=56 words, I Love Korean 5 wich published by Seoul University
+%%%B love_korean_57.txt=LoveKorean5_7=56 words, I Love Korean 5 wich published by Seoul University
+%%%B love_korean_58.txt=LoveKorean5_8=37 words, I Love Korean 5 wich published by Seoul University
+%%%B love_korean_59.txt=LoveKorean5_9=37 words, I Love Korean 5 wich published by Seoul University
