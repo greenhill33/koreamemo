@@ -35,3 +35,9 @@
 %%%E class10.txt=proficiency_test10=231 words, Korean vocabulary proficiency test 10
 %%%E class11.txt=proficiency_test11=231 words, Korean vocabulary proficiency test 11
 %%%E class12.txt=proficiency_test12=232 words, Korean vocabulary proficiency test 12
+%%%F mostcommon1en.txt=CommonLv1=1000 words, 5600 Most Common Korean Words, Part 1
+%%%F mostcommon2en.txt=CommonLv2=1000 words, 5600 Most Common Korean Words, Part 2
+%%%F mostcommon3en.txt=CommonLv3=1000 words, 5600 Most Common Korean Words, Part 3
+%%%F mostcommon4en.txt=CommonLv4=999 words, 5600 Most Common Korean Words, Part 4
+%%%F mostcommon5en.txt=CommonLv5=1000 words, 5600 Most Common Korean Words, Part 5
+%%%E mostcommon6en.txt=CommonLv6=666 words, 5600 Most Common Korean Words, Part 6
