@@ -22,6 +22,7 @@
 %%%C pub100en.txt=CommonVerb100=100 words, 100 Most Basic Korean Verbs
 %%%F pub500en.txt=CommonVerb480=483 words, 480 Most Common Korean Verbs
 %%%G v5291en.txt=Frequency5000=5291 words, Korean frequency list 5000 words
+%%%G proverb500en.txt=Proverbs=543 words, Korean Proverbs
 %%%E class01.txt=proficiency_test1=231 words, Korean vocabulary proficiency test 1
 %%%E class02.txt=proficiency_test2=231 words, Korean vocabulary proficiency test 2
 %%%E class03.txt=proficiency_test3=231 words, Korean vocabulary proficiency test 3
