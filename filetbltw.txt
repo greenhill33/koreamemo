@@ -23,6 +23,7 @@
 %%%C basicsent_tw.txt=常用句=117句, 常用句110
 %%%B tw_sent1.txt=介紹問候句=34句, 介紹問候用句
 %%%B tw_sent3.txt=家庭生活句=63句, 家庭生活用句
+%%%D learn_korea_tw.txt=學習韓國字=205字, 用韓語介紹你自己，學習實用通俗韓語表達
 %%%D dictum200tw.txt=格言200句=207句, 韓語格言200句
 %%%E beginnouns_tw.txt=TOPIK初級上=289字, TOPIK 初級名詞單字整理
 %%%E beginabverb_tw.txt=TOPIK初級下=364字, TOPIK 初級動詞、形容詞、副詞等單字整理
