@@ -16,6 +16,7 @@
 %%%C basicsent_en.txt=sentences1=158, Useful basic Korean sentences 1
 %%%D basicsent2_en.txt=sentences2=200, Useful basic Korean sentences 2
 %%%B en_sent_can.txt=Can you and I=34, Can you and Can I have something?
+%%%F discoveringkorean_en.txt=Discovering Korean=1057 words, Vocabulary from the first Korean language course book used by Kondae and YBM
 %%%E beginnouns.txt=TOPIK beginner p1=289 words, TOPIK beginner level Nouns
 %%%E beginabverb.txt=TOPIK beginner p2=364 words, TOPIK beginner level Adverb,adj,adv
 %%%F TOPIKintermediate_en.txt=TOPIK 중급=1027 words, to learn often shown up in Topik intermediate test (Topik II)
