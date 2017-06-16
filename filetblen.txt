@@ -1,5 +1,6 @@
 %%%A directions.txt=orientation=13 words, basic orientation word
 %%%A bodys.txt=body=19 words, basic human body word
+%%%A beginnerkorean_en.txt=beginner Korean=135 words, A simple beginners vocabulary course in Korean.
 %%%B numbers.txt=number=54 words, basic number word
 %%%B times.txt=time=37 words, basic time word
 %%%B days.txt=date=36 words, basic date word
@@ -17,6 +18,9 @@
 %%%D basicsent2_en.txt=sentences2=200, Useful basic Korean sentences 2
 %%%B en_sent_can.txt=Can you and I=34, Can you and Can I have something?
 %%%F discoveringkorean_en.txt=Discovering Korean=1057 words, Vocabulary from the first Korean language course book used by Kondae and YBM
+%%%C datingterms_en.txt=Korean Dating Terms=129 words, A list of common dating and sex terms and slang.
+%%%C dramavocab_en.txt=Korean Drama Vocab=207 words,  A list to learn some basic words and phrases.
+%%%F immigrationintegration_en.txt=Immigration and Integration=1074 words,  Korean Immigration and Integration Program.
 %%%E beginnouns.txt=TOPIK beginner p1=289 words, TOPIK beginner level Nouns
 %%%E beginabverb.txt=TOPIK beginner p2=364 words, TOPIK beginner level Adverb,adj,adv
 %%%E TOPIK2Orientalbook_en.txt=New TOPIK II 동양books=409 words, 동양books 실정 모의고사 한국어능력시험 II (3~6) 단어
