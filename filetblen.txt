@@ -19,6 +19,7 @@
 %%%F discoveringkorean_en.txt=Discovering Korean=1057 words, Vocabulary from the first Korean language course book used by Kondae and YBM
 %%%E beginnouns.txt=TOPIK beginner p1=289 words, TOPIK beginner level Nouns
 %%%E beginabverb.txt=TOPIK beginner p2=364 words, TOPIK beginner level Adverb,adj,adv
+%%%E TOPIK2Orientalbook_en.txt=New TOPIK II 동양books=409 words, 동양books 실정 모의고사 한국어능력시험 II (3~6) 단어
 %%%F TOPIKintermediate_en.txt=TOPIK 중급=1027 words, to learn often shown up in Topik intermediate test (Topik II)
 %%%G TOPIKAdvanceden.txt=TOPIK Advanced=1001 words, TOPIK Advanced 1000
 %%%C pubadj100en.txt=CommonAdj100=104 words, 100 Most Basic Korean Adjectives
