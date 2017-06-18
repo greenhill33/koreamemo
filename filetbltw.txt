@@ -63,3 +63,5 @@
 %%%E class12_tw.txt=測驗單字十二=232字, 韓國語能力測驗必備單字之十二
 %%%E lanshizhi1_tw.txt=延世韓文1=1130字, 延世韓國語教材1之單字
 %%%E lanshizhi2_tw.txt=延世韓文2=430字, 延世韓國語教材2之單字
+%%%C semma_nonu_tw.txt=韓語名詞_N=9245字, 韓語單字名詞整理 (semma提供)
+%%%C semma_verb_tw.txt=韓語動詞_V=5403字, 韓語單字動詞整理 (semma提供)
