@@ -52,3 +52,5 @@
 %%%E class12_tw.txt=测验单词十二=232词, 韩国语能力测验必备单词之十二
 %%%E lanshizhi1_tw.txt=延世韩文1=1130词, 延世韩国语教材1之单词
 %%%E lanshizhi2_tw.txt=延世韩文2=430词, 延世韩国语教材2之单词
+%%%C semma_nonu_tw.txt=韩语名词_N=9245字, 韩语单字名词整理 (semma提供)
+%%%C semma_verb_tw.txt=韩语动词_V=5403字, 韩语单字动词整理 (semma提供)
