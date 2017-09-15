@@ -37,6 +37,9 @@
 %%%D dictum200tw.txt=格言200句=207句, 韓語格言200句
 %%%E beginnouns_tw.txt=TOPIK初級上=289字, TOPIK 初級名詞單字整理
 %%%E beginabverb_tw.txt=TOPIK初級下=364字, TOPIK 初級動詞、形容詞、副詞等單字整理
+%%%E topik_1_tw.txt=TOPIK初級=869字, TOPIK I 初級（舊制1、2級）(Candy老師整理)
+%%%E topik_2_tw.txt=TOPIK中級=1608字, TOPIK II 中級（舊制3、4級）(Candy老師整理)
+%%%E topik_3_tw.txt=TOPIK高級=1353字, TOPIK III 高級（舊制5、6級）(Candy老師整理)
 %%%B f_eaten_tw.txt=生活語_食=94字, 初學生活韓語之食篇
 %%%B f_dress_tw.txt=生活語_衣=31字, 初學生活韓語之衣篇
 %%%B f_lives_tw.txt=生活語_住=75字, 初學生活韓語之住篇
