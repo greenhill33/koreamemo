@@ -1,10 +1,12 @@
 머리=頭,head
 머리카락=頭髮,头发,hair
 이마=額頭,额头,forehead
+눈=眼睛,eye
 코=鼻子,nose
-임=嘴巴,口,mouth
+입=嘴巴,口,mouth
 턱=下巴,顎,chin
-몰=臉頰,脸颊,チーク,cheek
+뺨=臉頰,脸颊,チーク,cheek,長形物體的寬度
+볼=腮,腮帮子,チーク,cheek,指뺨的正中心
 귀=耳,耳朵,ear
 목=喉,脖子,喉嚨,喉咙,throat
 어깨=肩,肩膀,shoulder
