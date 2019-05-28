@@ -432,7 +432,7 @@
 참다=to suppress, to bear, to endure
 참석하다=to attend, to participate
 찾다=to find, to look for
- 찾아가다=to go, to visit; to pick up
+찾아가다=to go, to visit; to pick up
 찾아보다=to look for, to find
 찾아오다=to come, to visit; to pick up
 채우다=to fill
